@@ -1,2 +1,2 @@
 # blockchain-developer-bootcamp-final-project
-Peer to Peer Decentralised Weather Prediction Market
+NFT MArketplace with a feature to mint NFTs
