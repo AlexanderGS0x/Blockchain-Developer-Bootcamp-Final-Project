@@ -1,2 +1,2 @@
 # blockchain-developer-bootcamp-final-project
-NFT MArketplace with a feature to mint NFTs
+NFT Marketplace with a feature to mint NFTs
